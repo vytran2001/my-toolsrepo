@@ -1,0 +1,1 @@
+I'm adding to story.txt at SDT file. This is the first commit.
